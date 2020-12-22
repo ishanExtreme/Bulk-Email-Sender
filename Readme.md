@@ -15,6 +15,14 @@
 
 * Thus if internet connection fails in between the process, than process can be restarted when connection restores
 
+<h2>Basic Introduction</h2>
+
+* Sending individual score cards to each student
+
+* Sending different question paper to each student(online exams)
+
+* ...
+
 <h2>How To Setup(for non programmers)</h2>
 
 * Locate and run *Setup.bat*(this is for first time only no need to run it after)
