@@ -15,7 +15,7 @@
 
 * Thus if internet connection fails in between the process, than process can be restarted when connection restores
 
-<h2>Basic Introduction</h2>
+<h2>Use Cases</h2>
 
 * Sending individual score cards to each student
 
