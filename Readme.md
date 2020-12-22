@@ -33,9 +33,11 @@
 
 * Run the programme using *Run.bat* or *python main.py*
 
+<p align="center">
 <a>
     <img src="./img/login_screen.PNG" width="300" height="400"/>
 </a>
+</p>
 
 * Signin using gmail id(click login button).
 **Note**->Remember to turn on [allow less secure apps](myaccount.google.com/lesssecureapps)
@@ -53,11 +55,11 @@ email2-filename2
 email3-filename3
 
 all filenames must **not** include the extensions
-'-' between filename and email is necessary
-**email should be of form username@domain.com**
+'-' between filename and email is necessary<br>
+**email should be of form username@domain.com**<br>
 **email address should not contain '-'**
 
-[sample screenshot]()
+[sample screenshot](https://github.com/ishanExtreme/Bulk-Email-Sender/blob/main/img/text.PNG)
 
 * Paste all the attachement files in *papers* folder
 
