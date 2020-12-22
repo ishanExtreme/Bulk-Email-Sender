@@ -13,7 +13,9 @@
 
 * It uses *fail_stack* to store the emails with unsuccessful send.
 
-* Thus if internet connection fails in between the process, than process can be restarted when connection restores
+* Thus if internet connection fails in between the process, than process can be restarted when connection restores.
+
+* Realtime notification panel to give all the updates about email sending process.
 
 <h2>Use Cases</h2>
 
