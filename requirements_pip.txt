@@ -1,0 +1,4 @@
+certifi==2020.12.5
+olefile==0.46
+Pillow==8.0.1
+wincertstore==0.2
