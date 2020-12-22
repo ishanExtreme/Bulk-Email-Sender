@@ -1,9 +1,11 @@
 <h1 align="center"> <ins>Bulk-Email-Sender</ins> </h1>
 <h4 align="center"> Easy Mail Send </h4>
 
+<p align="center">
 <a>
     <img src="./email_sender.jpg"/>
 </a>
+</p>
 
 <h2>Basic Introduction</h2>
 
@@ -32,7 +34,7 @@
 * Run the programme using *Run.bat* or *python main.py*
 
 <a>
-    <img src="./img/login_screen.PNG"/>
+    <img src="./img/login_screen.PNG" width="300" height="400"/>
 </a>
 
 * Signin using gmail id(click login button).
